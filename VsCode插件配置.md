@@ -5,9 +5,9 @@
 > 配置eslint规则：
 如下图，commond+, 进入vscode配置页，输入eslint，找到Eslint > Trace:Server,点击下方：Edit it setting.json,将如下代码粘贴到配置中，保存即可
 
-![avatar](/Users/hays/dj/前端开发规范/1.png)
+![avatar](./1.png)
 
-![avatar](/Users/hays/dj/2.png)
+![avatar](./2.png)
 
 ```javascript
 {
